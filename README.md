@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Somya
 
-<!--
-**Somya-data2decode/Somya-data2decode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst passionate about data-driven decision making.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Excel (Pivot tables, Charts)
+- Data Cleaning
+- SQL (Beginner)
+- Power BI (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+### 1. Excel Sales Analysis
+- Analyzed sales data
+- Created pivot tables & charts
+- Identified top-selling categories
+
+👉 Project: https://github.com/Somya-data2decode/excel-sales-analysis
+
+## 🎥 Content Creation
+- Creating Excel tutorials
+- Sharing my learning journey
+- Planning SQL & Power BI content
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/somya-singh-4947261bb
+- YouTube: https://www.youtube.com/@Data2Decode
+- Instagram: https://www.instagram.com/data2decode/
+- X: https://x.com/data2decode
+
