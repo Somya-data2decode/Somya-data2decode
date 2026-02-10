@@ -1,4 +1,4 @@
-# Hi 👋 I'm Somya
+# Hi  I'm Somya
 
 🎯 Aspiring Data Analyst passionate about data-driven decision making.
 
