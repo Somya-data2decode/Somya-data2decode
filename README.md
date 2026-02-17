@@ -1,27 +1,27 @@
-# Hi  I'm Somya
+# Hi, I am Somya
 
-🎯 Aspiring Data Analyst passionate about data-driven decision making.
+Aspiring Data Analyst passionate about data-driven decision making.
 
-## 🔧 Skills
+## Skills
 - Excel (Pivot tables, Charts)
 - Data Cleaning
 - SQL (Beginner)
 - Power BI (Learning)
 
-## 📊 Projects
+## Projects
 ### 1. Excel Sales Analysis
 - Analyzed sales data
 - Created pivot tables & charts
 - Identified top-selling categories
 
-👉 Project: https://github.com/Somya-data2decode/excel-sales-analysis
+Project: https://github.com/Somya-data2decode/excel-sales-analysis
 
-## 🎥 Content Creation
+## Content Creation
 - Creating Excel tutorials
 - Sharing my learning journey
 - Planning SQL & Power BI content
 
-## 📫 Connect with me
+## Connect with me
 - LinkedIn: https://www.linkedin.com/in/somya-singh-4947261bb
 - YouTube: https://www.youtube.com/@Data2Decode
 - Instagram: https://www.instagram.com/data2decode/
